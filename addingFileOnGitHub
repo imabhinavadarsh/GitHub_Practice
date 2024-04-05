@@ -1,0 +1,8 @@
+//How to create a file or add a file on github.
+If you just need to add some small file we can add directly with addfile option. and we can write the content inside it.\
+But if the files are complecx and so many files are there in you local host
+-----> we can use git command 
+git add files_name
+git status //to check files are now converted from unstaged to stagged and they aree ready to get commited and pushed.
+git commit -m "write some message"
+git push -u origin branch_name
