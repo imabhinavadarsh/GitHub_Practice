@@ -7,7 +7,7 @@ class BucketQuestion{
     public void ScannerToShare(){
         System.out.println("Enter the mix string");
     }
-        //seperate method of integer Bucket
+        //separate method of integer Bucket
     void integerBucket(){
         ScannerToShare();
         String s = sc.nextLine();
@@ -15,7 +15,7 @@ class BucketQuestion{
         System.out.println("Number Bucket :" + intBucket);
         }
   
-        //seperate method of alphabet Bucket
+        //separate method of alphabet Bucket
         void alphabetBucket(){
         ScannerToShare();
         String s = sc.nextLine();
@@ -23,7 +23,7 @@ class BucketQuestion{
         System.out.println("Alphabet Bucket" + alphaBucket);
         }
   
-        //seperate method of symbol Bucket
+        //separate method of symbol Bucket
         void specialCharacterBucket(){
         ScannerToShare();
         String s = sc.nextLine();
