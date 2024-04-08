@@ -1,0 +1,2 @@
+LinkedList is the Best Choice when our operation is to manipulation in the middle.
+--> Insertion  or deletion of element in the middle 
